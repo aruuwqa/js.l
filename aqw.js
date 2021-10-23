@@ -3,6 +3,7 @@ const video1 ={
     quality:'high',
     duratio: 0.3,
 }
+console.log(123);
 const video2 ={
     name:'рецепт 2',
     quality:'low',
